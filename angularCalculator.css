@@ -1,0 +1,19 @@
+body {
+	margin: auto;
+	text-align: center;
+	background-color: white;
+}
+table, th, td {
+	border: 1px solid black;
+	margin: auto;
+	
+}
+
+.badPrice {				
+	background-color: red;
+    	color: white;
+}
+
+.ng-invalid.ng-dirty {
+	border-color: red;
+}
