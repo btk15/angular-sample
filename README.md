@@ -1,2 +1,2 @@
-# angular-sample
-Curtailment Calculator
+# Curtailment Calculator
+
